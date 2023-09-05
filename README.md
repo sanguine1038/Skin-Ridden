@@ -1,0 +1,17 @@
+# Exoskeleton
+Submission for the [Spooktober 2023 Game Jam](https://itch.io/jam/spooktober-2023) on itch.io
+
+# Links
+* [renpy-ActionEditor3](https://github.com/kyouryuukunn/renpy-ActionEditor3/tree/master)
+* [Action Editor Tutorial](https://www.youtube.com/watch?v=KoYXzREFx4A&t)
+* [Animation Tutorial](https://www.youtube.com/watch?v=0VWV_610BPw&t)
+
+This game is Open-Source for educational purposes and as such is under the [GNU Licenses (General Public License)](https://pitt.libguides.com/openlicensing/GNU-GPL). This means [end users](https://en.wikipedia.org/wiki/End_user) have the right to run, study, share, and modify the software.
+
+As CopyLeft licenses, any [derivative work](https://en.wikipedia.org/wiki/Derivative_work) must be distributed under the same or equivalent license terms.
+
+# Special Thanks
+* birdiepooo
+* [Visual Novel Design](https://www.youtube.com/@vimi)
+* [Elaine](https://www.youtube.com/@ElaineDoesCoding/videos)
+* And you, the player!
