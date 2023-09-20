@@ -5,7 +5,7 @@
 
 define J = Character("Jacob")
 
-default TestVar = False
+default TestVar = True
 
 # The game starts here.
 
@@ -58,13 +58,26 @@ label LabelTest:
 
 label notStart:
 
-    J "s"
+    # add voice here
 
+    "Riley is dead. They put her in a dirty grinder."
+    "I saw The Family eating her parts, or at least what I assumed were her parts."
+    show kitchen
+    "I was locked in a cage beforehand, although when they took Riley away I was able to hide in a nearby closet."
+    "They don’t know I left."
+    "While they were gone I was able to collect a bunch of things and make a Noisemaker."
+    "Basically a small ball where when it hits the ground a bunch of stuff will pop out and make a ton of noise."
+    "Although I think I’m having second thoughts."
+    "What should I do?"
 
+    menu:
 
-    show Space at right
-    #pos (961, 1078) 
+        "Continue hiding":
+            #
+            jump LabelTest
 
-    J "e"
+        "Throw Noisemaker":
+            #
+            jump LabelTest
 
     return
