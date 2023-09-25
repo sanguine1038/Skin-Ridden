@@ -1,5 +1,6 @@
 # Skin Ridden
 Submission for the [Spooktober 2023 Game Jam](https://itch.io/jam/spooktober-2023) on itch.io
+Devlog
 
 # Links
 * [renpy-ActionEditor3](https://github.com/kyouryuukunn/renpy-ActionEditor3/tree/master)
