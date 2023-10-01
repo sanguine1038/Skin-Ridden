@@ -1,5 +1,7 @@
 # Skin Ridden
-Submission for the [Spooktober 2023 Game Jam](https://itch.io/jam/spooktober-2023) on itch.io
+Submission for the [Spooktober 2023 Game Jam](https://itch.io/jam/spooktober-2023) on itch.io.
+
+[Script](https://docs.google.com/document/d/1OkSyQ0KD_zJ0R-zTqhOlRU5c8hXL8fRVzQ_6Ug6tj6A/edit?usp=sharing) (Including image credits)
 
 Devlog
 
@@ -16,6 +18,7 @@ All backgrounds shown are taken from the [CC Search Portal](https://search.creat
 
 # Special Thanks
 * birdiepooo
+* TehYoungGun
 * [Visual Novel Design](https://www.youtube.com/@vimi)
 * [Elaine](https://www.youtube.com/@ElaineDoesCoding/videos)
 * And you, the player!
