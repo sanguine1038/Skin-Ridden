@@ -3,7 +3,7 @@ Submission for the [Spooktober 2023 Game Jam](https://itch.io/jam/spooktober-202
 
 [Script](https://docs.google.com/document/d/1OkSyQ0KD_zJ0R-zTqhOlRU5c8hXL8fRVzQ_6Ug6tj6A/edit?usp=sharing) (Including image credits)
 
-Devlog
+[Devlog](https://www.youtube.com/watch?v=dH7Baa76tJk)
 
 # Links
 * [renpy-ActionEditor3](https://github.com/kyouryuukunn/renpy-ActionEditor3/tree/master)
