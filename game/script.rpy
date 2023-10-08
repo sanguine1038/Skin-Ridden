@@ -466,7 +466,7 @@ label PoliceEnding1:
     K "It’s a noisemaker I made trying to distract the family. I ended up never using it."
     P "...Works out for me."
     hide police2 with dissolve
-    play sound new33-3
+    play sound "new33-3.mp3"
     pause 43.0
     "Ending 3 - Evident"
     return
